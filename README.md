@@ -1,3 +1,5 @@
+To Change the matrix value instead of 4 it can be changed in /src/App.js. Functionality will work as expected with new value.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
